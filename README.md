@@ -22,8 +22,3 @@ git config --global user.email johndoe@example.com
 
 <img src="images_topics\VSCODE_adjust_vs_code_outline_fontsize_2023_0714.png"/>;
 
-## W01
-## W05
-- Chapter 02 review 
-- Chapter 03
-- github tutorial
